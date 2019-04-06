@@ -10,5 +10,5 @@
   <!-- Font Icon -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
   <!-- Main css -->
-  <link rel="stylesheet" href="<?php echo asset_url('css/style.css')?>">
+  <link rel="stylesheet" href="<?php echo asset_url()?>css/style.css">
 </head>
